@@ -9,7 +9,7 @@ var polygon = null;
 
 // Create placemarkers array to use in multiple funcitons to have control
 // over the number of places that show.
-var placeMarkers = [];
+var placemarkers = [];
 
 function initMap() {
 	var styles = [
